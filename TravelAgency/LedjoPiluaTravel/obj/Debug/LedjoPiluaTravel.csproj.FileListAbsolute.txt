@@ -1,0 +1,17 @@
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\bin\Debug\LedjoPiluaTravel.exe.config
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\bin\Debug\LedjoPiluaTravel.exe
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\bin\Debug\LedjoPiluaTravel.pdb
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\obj\Debug\LedjoPiluaTravel.csprojAssemblyReference.cache
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\obj\Debug\LedjoPiluaTravel.Properties.Resources.resources
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\obj\Debug\LedjoPiluaTravel.csproj.GenerateResource.cache
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\obj\Debug\LedjoPiluaTravel.csproj.CoreCompileInputs.cache
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\obj\Debug\LedjoPiluaTravel.exe
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\obj\Debug\LedjoPiluaTravel.pdb
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\obj\Debug\LedjoPiluaTravel.Dashboard.resources
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\obj\Debug\LedjoPiluaTravel.LoginForm.resources
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\obj\Debug\LedjoPiluaTravel.Datadashboard.resources
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\obj\Debug\LedjoPiluaTravel.Bookings.resources
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\obj\Debug\LedjoPiluaTravel.Flights.resources
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\obj\Debug\LedjoPiluaTravel.Clients.resources
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\obj\Debug\LedjoPiluaTravel.Hotels.resources
+C:\Users\ledjo\source\repos\LedjoPiluaTravel\LedjoPiluaTravel\obj\Debug\LedjoPiluaTravel.Users.resources
